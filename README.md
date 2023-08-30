@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on [BTXF](https://github.com/robmab/Proyect-BTFX)
-- ✉️  You can drop me an email at alefantozzi86@gmail.com
+- ✉️ You can drop me an email at rob_mb@outlook.es
 
 
 
