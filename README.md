@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently working on [BTXF](https://github.com/robmab/Proyect-BTFX)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robmab" alt="robmab" /></a> </p>
 
 
 
