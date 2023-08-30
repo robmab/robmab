@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robmab&show_icons=true&theme=radical&locale=en&layout=compact" alt="robmab" /></p>
 
 
-- 🔭 I’m currently working on [BTXF](https://github.com/robmab/Proyect-BTFX)
+- 🔭 I’m currently focused on React and Python with Flask & working on [BTXF](https://github.com/robmab/Proyect-BTFX)
 - ✉️ You can drop me an email at rob_mb@outlook.es
 
 
