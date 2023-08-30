@@ -1,8 +1,4 @@
-
-![hello](https://github.com/robmab/robmab/assets/56076087/a6b19579-44f3-4832-b47a-2f0071bc8030)
-
-
-
+![970b8ef8aef7d770f2f8b272ff5810da](https://github.com/robmab/robmab/assets/56076087/90f78d7b-78cb-4891-802d-5bdac5d43fe8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
