@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/rob-mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rob-mb" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robmab&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=3&hide_progress=true&hide=SCSS,CSS,HTML,Less" alt="robmab" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robmab&show_icons=true&locale=en&layout=compact" alt="robmab" /></p>
 
 
 - 🔭 Actualmente trabajando con React y Python con Flask & desarrollando [BTXF](https://github.com/robmab/Proyect-BTFX)
