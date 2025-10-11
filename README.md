@@ -5,7 +5,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robmab&show_icons=true&locale=en&layout=compact" alt="robmab" /></p>
 
 
-- 🔭 Actualmente trabajando con React y Python con Flask & desarrollando [BTXF](https://github.com/robmab/Proyect-BTFX)
+- 🔭 Actualmente trabajando con Vue, Noje.js, Typescript y Turbogears(Pythons) & desarrollando para Ender, Factoría de software
 - ✉️ rob_mb@outlook.es
 - <a href="https://linkedin.com/in/rob-mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rob-mb" height="30" width="40" /></a>
 
