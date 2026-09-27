@@ -1,4 +1,4 @@
-<h1 align="left">¡Hola! Soy Rober 👋</h1> <p align="left"> Full stack developer con ~2 años de experiencia, trabajando en remoto para una software factory en España. Basado en Albacete 🇪🇸. </p>
+<h1 align="left">¡Hola! Soy Rober 👋</h1> <p align="left"> Full stack developer con +2 años de experiencia, trabajando en remoto para una software factory en España(Madrid) 🇪🇸. </p>
 🔭 Actualmente desarrollando Atenea, una app multi-tenant de control de asistencia y deberes para academias de idiomas (Vue.js + Python/TurboGears)
 ⚙️ Stack día a día: Vue.js, TypeScript, Node.js y Python (TurboGears)
 🤖 Integrando IA en el flujo de trabajo: GitHub Copilot + DeepSeek en el trabajo, y un setup propio de LLM local con llama.cpp (Qwen3 / Vulkan sobre AMD) para programar sin depender de la nube
