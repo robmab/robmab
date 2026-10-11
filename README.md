@@ -1,11 +1,42 @@
-<h1 align="left">¡Hola! Soy Robmab 👋</h1> <p align="left"> Full stack developer con +2 años de experiencia, trabajando en remoto para una software factory en España (Madrid) 🇪🇸. </p>
-🔭 Actualmente desarrollando Atenea, una app multi-tenant de control de asistencia y deberes para academias de idiomas (Vue.js + Python/TurboGears)
-⚙️ Stack día a día: Vue.js, TypeScript, Node.js y Python (TurboGears)
-🤖 Integrando IA en el flujo de trabajo: GitHub Copilot + DeepSeek en el trabajo, y un setup propio de LLM local con llama.cpp (Qwen3 / Vulkan sobre AMD) para programar sin depender de la nube
+<h1 align="left">¡Hola! Soy Roberto (robmab) 👋</h1>
+<p align="left">Full stack developer con más de 2 años de experiencia, trabajando en remoto para una software factory en España 🇪🇸.</p>
+
+🔭 Desarrollando Atenea, una app multi-tenant de asistencia y deberes para academias de idiomas (Vue.js + Python/TurboGears)<br/>
+⚙️ Stack día a día: Vue.js, Quasar, TypeScript, Node.js y Python (TurboGears)<br/>
+🎨 También diseño las interfaces y decido la experiencia de usuario de lo que construyo<br/>
+🤖 Trabajo con agentes de código (Claude Code, GitHub Copilot) y con LLMs propios en local: llama.cpp sobre mi GPU, conectado al editor por MCP y ajustado con benchmarks propios<br/>
+<!-- 🧩 Diseño mi propio harness para agentes: skills, un agente revisor y un sensor que valida cada edición del agente → <a href="ENLACE_AL_REPO">repo</a><br/> -->
 📫 rob_mb@outlook.es
 <a href="https://linkedin.com/in/rob-mb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rob-mb" height="28" width="28" /></a>
 <br/>
-🧰 Lenguajes y herramientas
-<p align="left"> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://turbogears.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TurboGears-4B8BBE?style=flat&logoColor=white" alt="turbogears" height="28"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> </p> <p align="left"> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="github copilot"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" alt="claude code"/> <img src="https://img.shields.io/badge/llama.cpp-local_LLM-2F2F2F?style=flat" alt="llama.cpp"/> </p> <br/> <p align="left"> <img align="center" src="https://github-readme-stats-chi-taupe-65.vercel.app/api/top-langs?username=robmab&show_icons=true&locale=en&layout=compact" alt="robmab top languages" /> </p> <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robmab&theme=default" alt="robmab streak stats" /> </p>
+
+<h3 align="left">🧰 Lenguajes y herramientas</h3>
+<p align="left">
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</p>
+<p align="left">
+<a href="https://turbogears.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TurboGears-4B8BBE?style=flat&logo=python&logoColor=white" alt="turbogears"/></a>
+<a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white" alt="quasar"/></a>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="github copilot"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" alt="claude code"/>
+<img src="https://img.shields.io/badge/llama.cpp-local_LLM-2F2F2F?style=flat" alt="llama.cpp"/>
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-555555?style=flat" alt="mcp"/>
+</p>
+<br/>
+<p align="left"><img align="center" src="https://github-readme-stats-chi-taupe-65.vercel.app/api/top-langs?username=robmab&show_icons=true&locale=en&layout=compact" alt="robmab top languages" /></p>
+<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=robmab&theme=default" alt="robmab streak stats" /></p>
 
 
